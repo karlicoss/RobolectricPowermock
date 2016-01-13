@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.karlicos.robolectricpowermock">
+
+    <application
+        android:allowBackup="true"
+        android:label="app"
+        android:icon="@android:drawable/ic_menu_add">
+
+    </application>
+
+</manifest>
